@@ -29,11 +29,12 @@ Minimize the number of vehicles \( N \).
 
 ## Files in this Repository
 
-- `model.mod`: The OPL model file containing the MILP formulation.
-- `data.dat`: Example data file to be used with the OPL model.
+-  `TAPC-University-Gustave-Eiffel.py`: The Python script containing the MILP formulation and solution using CPLEX.
+
 - `README.md`: This file.
 
 ## Usage Instructions
 
 ### Requirements
 - IBM ILOG CPLEX Optimization Studio
+- docplex Python library
